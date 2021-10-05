@@ -5,8 +5,8 @@ const fs = require('fs')
 const path = require('path')
 
 const app = express()
-const port = 3000
-const ip = 'localhost'
+const port = 3030
+const ip = 'vps71402.cloudpublic.com.br'
 
 app.set('json spaces', 40)
 app.use(express.json())

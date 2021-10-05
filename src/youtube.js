@@ -46,7 +46,7 @@ class Youtube {
 
                 setTimeout((path) => {
                     fs.unlinkSync(path)
-                }, 60000 * 30, filePath)
+                }, 60000 * 10, filePath)
             });
         }
     }
