@@ -1,0 +1,29 @@
+{
+  "name": "youtube-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "shortid": "^2.2.16",
+    "url": "^0.11.0",
+    "youtube-search-api": "^1.0.10",
+    "ytdl-core": "^4.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheustkn/youtube-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheustkn/youtube-api/issues"
+  },
+  "homepage": "https://github.com/matheustkn/youtube-api#readme"
+}
